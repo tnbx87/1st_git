@@ -7,3 +7,4 @@ uoload記念。
 git add
 git commit
 git status
+git diff
